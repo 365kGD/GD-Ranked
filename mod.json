@@ -18,5 +18,12 @@
        "gameplay",
 	   "interface",
 	   "utility"
-	]
+	],
+	"links": {
+		"source": "https://github.com/365kGD/GD-Ranked"
+		},
+	"issues": {
+		"url": "https://github.com/365kGD/GD-Ranked/issues",
+		"info": "If you encounter an issue related to GD Ranked mismatches, please report it to the GitHub issues page."
+	}
 }
