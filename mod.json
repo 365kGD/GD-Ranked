@@ -1,0 +1,22 @@
+{
+	"geode": "5.0.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "365k.gd-ranked",
+	"name": "Gd Ranked",
+	"version": "v1.0.0",
+	"developer": "365k",
+	"description": "Adds Ranked to Gd",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	},
+	"tags":[
+       "gameplay",
+	   "interface",
+	   "utility"
+	]
+}
