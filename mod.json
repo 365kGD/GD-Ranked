@@ -8,7 +8,7 @@
 	},
 	"id": "365k.gd-ranked",
 	"name": "Gd Ranked",
-	"version": "v1.0.0",
+	"version": "v1.0.2",
 	"developer": "365k",
 	"description": "Adds Ranked to Gd",
 	"dependencies": {
@@ -19,8 +19,10 @@
 	   "interface",
 	   "utility"
 	],
+	"repository": "https://github.com/365kGD/GD-Ranked",
 	"links": {
-		"source": "https://github.com/365kGD/GD-Ranked"
+		"source": "https://github.com/365kGD/GD-Ranked",
+		"community": "https://discord.gg/458p6JTSeA"
 		},
 	"issues": {
 		"url": "https://github.com/365kGD/GD-Ranked/issues",
