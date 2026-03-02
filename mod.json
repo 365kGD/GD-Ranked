@@ -6,9 +6,9 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "365k.gd-ranked",
-	"name": "Gd Ranked",
-	"version": "v1.0.2",
+	"id": "365k.ranked",
+	"name": "Ranked",
+	"version": "v1.0.0-Beta",
 	"developer": "365k",
 	"description": "Adds Ranked to Gd",
 	"dependencies": {
