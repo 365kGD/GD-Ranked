@@ -8,11 +8,10 @@
 	},
 	"id": "365k.ranked",
 	"name": "Ranked",
-	"version": "v1.0.0-Beta",
+	"version": "v1.0.0-beta",
 	"developer": "365k",
 	"description": "Adds Ranked to Gd",
 	"dependencies": {
-		"geode.node-ids": ">=v1.20.0"
 	},
 	"tags":[
        "gameplay",
